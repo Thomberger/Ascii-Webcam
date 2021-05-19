@@ -2,7 +2,7 @@
 
 This python project output the webcam images as ascii characters. It simply add the webcam caputre to a regular ascci converting image script. You can obtain results of this kind:
 
- <img src="./Capture.jpg" width="70%" >
+ <img src="./Capture.JPG" width="70%" >
 
  It has been inspired [this video](https://www.youtube.com/watch?v=DBnStqiLB-Q) from the french youtuber micode
 
